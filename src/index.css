@@ -1,0 +1,22 @@
+
+body{
+    margin-top: 140px;
+    background: #3a7bd5;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #3a6073, #3a7bd5);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #3a6073, #3a7bd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.bg-menu{
+    background-color: #1A242D;
+}
+main{
+    min-height: 80vh;
+}
+.card-img-top {
+    object-fit: cover;
+    height: 150px; /* Ajusta el valor de altura deseado */
+  }
+
+  .slick-slide > div{
+    margin: 0 10px;
+  }
+

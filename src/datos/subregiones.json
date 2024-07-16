@@ -1,0 +1,95 @@
+
+[
+  {
+    "subregion": "Australia and New Zealand",
+    "subregionEsp": "Australia y Nueva Zelanda"
+  },
+  {
+    "subregion": "Middle Africa",
+    "subregionEsp": "África Central"
+  },
+  {
+    "subregion": "Eastern Africa",
+    "subregionEsp": "África Oriental"
+  },
+  {
+    "subregion": "Northern Africa",
+    "subregionEsp": "África del Norte"
+  },
+  {
+    "subregion": "Southern Africa",
+    "subregionEsp": "África Austral"
+  },
+  {
+    "subregion": "Western Africa",
+    "subregionEsp": "África Occidental"
+  },
+  {
+    "subregion": "Central America",
+    "subregionEsp": "América Central"
+  },
+  {
+    "subregion": "North America",
+    "subregionEsp": "América del Norte"
+  },
+  {
+    "subregion": "South America",
+    "subregionEsp": "América del Sur"
+  },
+  {
+    "subregion": "Central Asia",
+    "subregionEsp": "Asia Central"
+  },
+  {
+    "subregion": "Eastern Asia",
+    "subregionEsp": "Asia Oriental"
+  },
+  {
+    "subregion": "Southern Asia",
+    "subregionEsp": "Asia Meridional"
+  },
+  {
+    "subregion": "South-Eastern Asia",
+    "subregionEsp": "Asia Sudoriental"
+  },
+  {
+    "subregion": "Western Asia",
+    "subregionEsp": "Asia Occidental"
+  },
+  {
+    "subregion": "Caribbean",
+    "subregionEsp": "Caribe"
+  },
+  {
+    "subregion": "Central Europe",
+    "subregionEsp": "Europa Central"
+  },
+  {
+    "subregion": "Eastern Europe",
+    "subregionEsp": "Europa Oriental"
+  },
+  {
+    "subregion": "Northern Europe",
+    "subregionEsp": "Europa Septentrional"
+  },
+  {
+    "subregion": "Southern Europe",
+    "subregionEsp": "Europa Meridional"
+  },
+  {
+    "subregion": "Western Europe",
+    "subregionEsp": "Europa Occidental"
+  },
+  {
+    "subregion": "Melanesia",
+    "subregionEsp": "Melanesia"
+  },
+  {
+    "subregion": "Micronesia",
+    "subregionEsp": "Micronesia"
+  },
+  {
+    "subregion": "Polynesia",
+    "subregionEsp": "Polinesia"
+  }
+]
